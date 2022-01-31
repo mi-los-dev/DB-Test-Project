@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2827ee42f27f9244c95e9920e22dbf3a, type: 3}
+  m_Name: Motorcycle
+  m_EditorClassIdentifier: 
+  nomination: Motorcycle
+  image: {fileID: 796157564, guid: 3567657fdb77d5346aa7a5cdbce10f53, type: 3}
+  weight: 250
+  maxSpeed: 250
+  numberOfPersons: 2
